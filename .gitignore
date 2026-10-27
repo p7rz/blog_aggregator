@@ -1,0 +1,25 @@
+# Compiled binaries
+/blog_aggregator
+*.exe
+*.out
+*.test
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# IDE and editor files
+.vscode/
+.idea/
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Temporary files
+tmp/
+temp/
